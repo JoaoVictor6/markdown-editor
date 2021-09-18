@@ -19,6 +19,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "preserve",
+    "typeRoots": ["./src/@types", "./node_modules/@types"],
     "baseUrl": ".",
     "paths": {
       "@assets/*": ["public/assets/*"],
