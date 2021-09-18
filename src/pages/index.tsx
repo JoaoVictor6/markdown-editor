@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Teste from '@components/teste';
+import Header from '@components/Header';
 
 export default function App(): JSX.Element {
   return (
@@ -7,7 +7,7 @@ export default function App(): JSX.Element {
       <Head>
         <title>Markdown IDE</title>
       </Head>
-      <Teste />
+      <Header />
     </>
   );
 }
