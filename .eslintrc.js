@@ -28,5 +28,6 @@ module.exports = {
     'import/no-unresolved': 'off',
     'import/extensions': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
