@@ -5,6 +5,9 @@ export const Container = styled.header`
   justify-content: space-between;
   align-items: center;
   margin: 24px 16px;
+  img {
+    height: 42px;
+  }
 `;
 
 export const Menu = styled.button`

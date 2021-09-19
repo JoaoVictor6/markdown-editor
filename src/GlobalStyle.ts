@@ -7,11 +7,11 @@ export default createGlobalStyle`
   body, * {
     margin: 0;
     padding: 0;
-
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: #fff;
   }
   body {
     background-color: #0D1112;
+    height: 100vh;
   }
 `;
